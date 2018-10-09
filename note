@@ -1,0 +1,13 @@
+after midterm 1
+
+node mon = ทำให้ไม่ต้องกดรัน app.js เอง
+
+npm install nodemon --save
+npm install nodemon -g 
+npm install express --save
+
+.\node_modules\nodemon\bin\nodemon.js  [--ใส่ใน script-->] package.json
+
+postman เทสหลังบ้าน
+ 
+npm install body-parser --save  แปลง require --> json
